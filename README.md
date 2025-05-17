@@ -71,9 +71,10 @@ Reg No:212224230189
 
 
 
-**TIMING DIGRAMS FOR FLIP![440305245-35aedf47-dc99-4e56-a3cd-a11599d9a781](https://github.com/user-attachments/assets/91e5dbdc-6a7b-4187-9d5c-1d9d94535b48)
- FLOPS**
-![440305245-35aedf47-dc99-4e56-a3cd-a11599d9a781](https://github.com/user-attachments/assets/d4e8cf14-4a3f-4b83-8a08-b2dd30472ba0)
+**TIMING DIGRAMS FOR FLIP FLOPS**
+
+![440305245-35aedf47-dc99-4e56-a3cd-a11599d9a781](https://github.com/user-attachments/assets/91e5dbdc-6a7b-4187-9d5c-1d9d94535b48)
+
 
 
 
